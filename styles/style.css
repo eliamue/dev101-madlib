@@ -1,0 +1,58 @@
+header {
+text-align: center;
+font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: lawngreen;
+padding: 5px;
+background-color: rgb(40, 8, 121);
+flex: auto;
+border: 3px inset rgb(249, 62, 255);
+}
+.input {
+justify-content: center;
+align-items: center;
+text-align: center;
+margin: 5px;
+padding: 5px;
+}
+.boxes {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bolder;
+justify-content: center;
+text-align: center;
+margin: 5px;
+padding: 5px;
+border: 5px double rgb(102, 7, 255);
+background-color: rgb(196, 235, 152);
+font-variant: small-caps;   
+}
+p {
+text-align: center;
+margin: 5px;
+padding: 5px;
+}
+.background {
+background-image: url("../assets/Hip Hop Graffiti Wallpaper Mural by LoveAbodecom.jpg");
+justify-content: center;
+}
+
+.entry {
+color: rgb(249, 62, 255);
+font-weight: bold;
+}
+body {
+    background-color: rgb(40, 8, 121);
+    border: 3px inset rgb(249, 62, 255);
+}
+.text-field {
+    display: none;
+    background-color: rgb(40, 8, 121);
+    flex: auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;  
+    font-size: large;
+    color: chartreuse;
+    border: 3px inset rgb(249, 62, 255);
+    font-stretch: expanded;
+    }
